@@ -1,6 +1,8 @@
 function showArrayItems(array) {
  //Complete the implementation here..
+ for(let i = 0; i < array.length; i++) {
 
+ }
 }
 
 
